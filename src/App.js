@@ -1,6 +1,7 @@
 import './App.css';
 import {useState,useEffect} from 'react';
 import {quotes} from './quotes'
+
 function App() {
   return (
     <div className="App">
