@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500');
+.box {
+    width: 45%;
+    height: auto;
+    background: cyan;
+    border-radius: 5px;
+    position: absolute;
+}
